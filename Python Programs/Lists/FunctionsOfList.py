@@ -1,0 +1,15 @@
+numbers=[3,5,8,4,9,2]
+numbers.append(1)
+print(numbers)
+numbers.sort()
+print(numbers)
+numbers.sort(reverse=True)
+print(numbers)
+numbers.reverse
+print(numbers)
+numbers.insert(2,7)
+print(numbers)
+numbers.remove(9)
+print(numbers)
+numbers.pop(6)
+print(numbers)
